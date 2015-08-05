@@ -1,0 +1,1 @@
+../../../aio_otfp/touchpanel/GT9XX_aio/gt9xx_firmware.h
